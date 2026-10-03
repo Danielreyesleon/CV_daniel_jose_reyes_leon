@@ -1,5 +1,5 @@
 📁 CV Profesional — Daniel José Reyes León
-Desarrollo Web • Ciberseguridad • Ciencia de Datos
+Desarrollo Web • Ciberseguridad • Ciencia de Datos 
 Este repositorio funciona como mi portafolio profesional y CV digital, donde reúno mi experiencia, certificaciones, habilidades y proyectos desarrollados a lo largo de mi formación en ciberseguridad, desarrollo web, ciencia de datos y programación.
 
 Además de la información profesional, este repositorio incluye código real de proyectos anteriores, organizados por tecnologías como Python, Java, SQL, Power BI, PHP, entre otros.
